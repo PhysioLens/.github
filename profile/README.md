@@ -142,5 +142,5 @@ PhysioLens was built by four developers over the 2026 capstone term.
 
 ## Status
 
-Complete as a capstone deliverable. the repositories are
+Complete as a capstone deliverable. The repositories are
 public for reference rather than under active development.
