@@ -4,7 +4,6 @@
 injuries and the clinicians guiding their recovery.**
 
 [**▶ Watch the demo**](https://youtu.be/ObZUk4tqyTE) &nbsp;·&nbsp;
-[**Live web portal**](https://physiolens.naguilar.dev/) &nbsp;·&nbsp;
 [**Project page**](https://setprojectday.ca/post/2026/physiolens/)
 
 PhysioLens covers the full rehabilitation workflow. A desktop application uses an
@@ -143,6 +142,5 @@ PhysioLens was built by four developers over the 2026 capstone term.
 
 ## Status
 
-Complete as a capstone deliverable. The web portal remains deployed at
-[physiolens.naguilar.dev](https://physiolens.naguilar.dev/); the repositories are
+Complete as a capstone deliverable. the repositories are
 public for reference rather than under active development.
